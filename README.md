@@ -7,6 +7,7 @@ Binary to Decimal encoder and decoder using RNN with tensorflow
 2. tensorflow
 
 # Run
-1. `jupyter notebook Binary-To-Int.ipynb` for Binary to Integer conversion
-2. `jupyter notebook Int-To-Binary.ipynb` for Integer to Binary conversion
+1. `jupyter notebook Int-To-k_ary.ipynb` for Integer to base 'k' conversion
+2. `jupyter notebook Binary-To-Int.ipynb` for Binary to Integer conversion
+3. `jupyter notebook Int-To-Binary.ipynb` for Integer to Binary conversion
 
